@@ -1,7 +1,9 @@
 # SiguriaETeDhenave_Gr14
 
 Kriptografia është shkenca metematiko teknike për ruajtjen e sigurisë së shënimeve.
+
 Për implementimin e këtij projekti është përdorur editori Eclipse IDE, dhe gjuha programuese Java.
+
 Ideja e implementimit te Beale cipher:
 Beale cipher eshte perdorur per enkriptimin e nje letre nga Beale i cili permes asaj letre ka dashtur te tregoj se ku qendron thesari te cilin e ka fshehur ai, secila shkronje ne ate "testament" eshte enkriptuar me numra te cilet gjenden ne liber ku secili numer eshte zevendesuar me nje shkronje ne liber, deri me sot ende nuk eshte gjendur ai thesar.
 
