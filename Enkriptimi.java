@@ -33,7 +33,7 @@ public class Enkriptimi {
     private int countLettersToIndex(String[] splittedTextBook, int index) {
     	int result = 0;
     	for (int i = 0; i < index; i += 1) {
-    		result += splittedTextBook[i].length() + 1; // pjesa e djatht e + osht per mi kalkulu edhe hapesirat " "
+    		result += splittedTextBook[i].length() + 1; 
     	}
     	return result - (splittedTextBook.length - 1 == index ? -1 : 0);
     }
